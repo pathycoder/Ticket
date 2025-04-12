@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    padding: 30px;
+}
+
+.ticket-container {
+    background: white;
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.section {
+    margin-bottom: 25px;
+}
+
+.flight-block {
+    background: #f1f1f1;
+    padding: 15px;
+    border-left: 5px solid #0077cc;
+    margin-bottom: 10px;
+}
